@@ -118,6 +118,8 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="2.2.2">
+    <gap:plugin name="cordova-plugin-admob-free" source="npm" />
+	<gap:plugin name="cordova-support-google-services" source="npm" />
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
     <gap:plugin name="net.tunts.webintent" spec="https://github.com/Tunts/WebIntent.git" source="git" />
