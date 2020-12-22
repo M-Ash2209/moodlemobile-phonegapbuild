@@ -117,7 +117,7 @@
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
-    <gap:plugin name="phonegap-plugin-push" source="npm" version="2.2.2">
+    <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
     <gap:plugin name="cordova-plugin-admob-free" source="npm" />
 	<gap:plugin name="cordova-support-google-services" source="npm" />
         <param name="SENDER_ID" value="694767596569" />
